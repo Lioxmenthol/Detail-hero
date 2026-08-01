@@ -1361,7 +1361,7 @@
   },
   {
     "her": "Marcel",
-    "roll": "Support / Tank | Support, Crowd Control",
+    "roll": "Support | Tank | Support, Crowd Control",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero1321-portrait.png/revision/latest?cb=20260311075303",
     "stat_durability": "85",
     "stat_offense": "45",
@@ -1393,7 +1393,7 @@
   },
   {
     "her": "Masha",
-    "roll": "Fighter / Tank | Burst, Control",
+    "roll": "Fighter | Tank | Burst, Control",
     "URL": "https://nocookie.net",
     "stat_durability": "80",
     "stat_offense": "85",
@@ -1409,7 +1409,7 @@
   },
   {
     "her": "Mathilda",
-    "roll": "Support / Assassin | Blink, Initiator",
+    "roll": "Support | Assassin | Blink, Initiator",
     "URL": "https://nocookie.net",
     "stat_durability": "55",
     "stat_offense": "75",
@@ -1441,7 +1441,7 @@
   },
   {
     "her": "Minotaur",
-    "roll": "Tank / Support | Crowd Control, Healer",
+    "roll": "Tank | Support | Crowd Control, Healer",
     "URL": "https://nocookie.net",
     "stat_durability": "90",
     "stat_offense": "40",
@@ -1632,7 +1632,7 @@
     "skill_ult_URL": "https://nocookie.net"
   },
   {
-    "her": "Pharsa",
+    "her": "Parsha",
     "roll": "Mage | Burst, Poke",
     "URL": "https://nocookie.net",
     "stat_durability": "25",
@@ -1697,7 +1697,7 @@
   },
   {
   "her": "Roger",
-  "roll": "Fighter / Marksman | Burst, Speed",
+  "roll": "Fighter | Marksman | Burst, Speed",
   "URL": "https://nocookie.net",
   "stat_durability": "65",
   "stat_offense": "85",
@@ -1713,7 +1713,7 @@
   },
   {
     "her": "Ruby",
-    "roll": "Fighter / Tank | Crowd Control, Regen",
+    "roll": "Fighter | Tank | Crowd Control, Regen",
     "URL": "https://nocookie.net",
     "stat_durability": "80",
     "stat_offense": "65",
@@ -1745,7 +1745,7 @@
   },
   {
     "her": "Selena",
-    "roll": "Assassin / Mage | Burst, Control",
+    "roll": "Assassin | Mage | Burst, Control",
     "URL": "https://nocookie.net",
     "stat_durability": "30",
     "stat_offense": "85",
@@ -1761,7 +1761,7 @@
   },
   {
     "her": "Silvanna",
-    "roll": "Fighter / Mage | Initiator, Burst",
+    "roll": "Fighter | Mage | Initiator, Burst",
     "URL": "https://nocookie.net",
     "stat_durability": "65",
     "stat_offense": "80",
@@ -1777,7 +1777,7 @@
   },
   {
     "her": "Sora",
-    "roll": "Fighter / Assassin | Charge, Burst",
+    "roll": "Fighter | Assassin | Charge, Burst",
     "URL": "https://nocookie.net",
     "stat_durability": "60",
     "stat_offense": "85",
@@ -1809,7 +1809,7 @@
   },
   {
     "her": "Suyou",
-    "roll": "Fighter / Assassin | Chase, Burst",
+    "roll": "Fighter | Assassin | Chase, Burst",
     "URL": "https://nocookie.net",
     "stat_durability": "60",
     "stat_offense": "90",
@@ -2001,7 +2001,7 @@
   },
   {
     "her": "Yi Sun-shin",
-    "roll": "Assassin / Marksman | Chase, Burst",
+    "roll": "Assassin | Marksman | Chase, Burst",
     "URL": "https://nocookie.net",
     "stat_durability": "45",
     "stat_offense": "90",
@@ -2017,7 +2017,7 @@
   },
   {
     "her": "Yin",
-    "roll": "Fighter / Assassin | Burst, Control",
+    "roll": "Fighter | Assassin | Burst, Control",
     "URL": "https://nocookie.net",
     "stat_durability": "65",
     "stat_offense": "85",
