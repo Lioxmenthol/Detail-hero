@@ -1394,7 +1394,7 @@
   {
     "her": "Masha",
     "roll": "Fighter, Tank | Burst, Control",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20241021142800",
     "stat_durability": "80",
     "stat_offense": "85",
     "stat_control": "60",
@@ -1402,15 +1402,15 @@
     "skill_title": "Ancient Strength (Pasif) [Combo: Skill 1 (Nyalakan Mode Cakar) -> Ultimate (Melesat Hantam) -> Spam Basic Attack Kecepatan Tinggi -> Skill 2 (Disarm Peluru MM)]",
     "skill_desc": "🔴 PASIF - ANCIENT STRENGTH:\nMasha memiliki 3 bar HP dan tidak bisa dieliminasi dalam sekali hit jika masih punya bar HP tersisa. Setiap kehilangan 1 bar HP, ia mendapatkan kekebalan lifesteal tambahan dan tambahan Attack Speed konstan yang masif.\n\n🔵 SKILL 1 - WILD POWER:\nMasha meningkatkan kekuatan cakarnya, memberikan Physical Damage tambahan berdasarkan persentase Max HP target pada setiap Basic Attack, namun ia harus mengorbankan sebagian kecil HP-nya sendiri.\n\n🟡 SKILL 2 - HOWL SHOCK:\nMasha melepaskan raungan singa ke depan, memberikan Physical Damage dan menyebabkan efek slow berat, serta melucuti senjata target (Disarm) sehingga mereka tidak bisa menggunakan Basic Attack selama 2 detik.\n\n💜 ULTIMATE (SKILL 3) - THUNDERCLAP:\nMasha mengorbankan persentase HP saat ini untuk melesat menghantam hero target, memberikan Physical Damage masif berdasarkan total HP Masha, menyebabkan efek slow, and mengurangi kekebalan damage musuh.",
     "best_build": "\n\nWarrior Boots:\n(Menambah pertahanan fisik awal agar tangguh saat melakukan adu jotos perebutan minion awal di Exp Lane atau Jungle),\n\nHunter Strike:\n(Memberikan Physical Penetration dan kecepatan lari tambahan setelah menyabetkan rentetan cakaran mautnya),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memaksimalkan burst hantaman kritis dari skill Thunderclap),\n\nBlade of Heptaseas:\n(Sangat mematikan karena memicu damage kejutan besar saat Masha melakukan sergapan instan dari semak),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar demi melumat hero tebal pelindung lawan di lini depan),\n\nRose Gold Meteor:\n(Asuransi pelindung shield magis darurat agar ia tidak mudah dieliminasi saat sisa bar HP terakhirnya sekarat)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Ancient_Strength.png/revision/latest?cb=20211206061603",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Wild_Power.png/revision/latest?cb=20211206061636",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Howl_Shock.png/revision/latest?cb=20211206061702",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Thunderclap.png/revision/latest?cb=20211206061731"
   },
   {
     "her": "Mathilda",
     "roll": "Support, Assassin | Blink, Initiator",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20241021143131",
     "stat_durability": "55",
     "stat_offense": "75",
     "stat_control": "65",
@@ -1418,15 +1418,15 @@
     "skill_title": "Ancestral Guidance (Pasif) [Combo: Skill 2 (Berikan Jalur Terbang Teman) -> Skill 1 (Timbun Peluru Burung) -> Ultimate (Kunci Target & Putari Musuh) -> Lepas Dash Akhir]",
     "skill_desc": "🔴 PASIF - ANCESTRAL GUIDANCE:\nMathilda mengumpulkan energi leluhur saat bergerak. Ketika bar penuh, Basic Attack berikutnya akan diperkuat untuk memberikan Magic Damage tambahan kepada target dan meningkatkan Movement Speed dirinya.\n\n🔵 SKILL 1 - SOUL BLOOM:\nMathilda memanggil kekuatan roh leluhur di sekitarnya yang mengumpulkan hingga 6 peluru burung mistis seiring langkah pergerakannya. Saat dilepaskan, burung tersebut otomatis menyerang musuh terdekat.\n\n🟡 SKILL 2 - GUIDING WIND:\nMathilda melakukan dash ke depan and menciptakan area pusaran angin pelindung yang memberikan Shield bagi dirinya serta seluruh teman di area, serta memungkinkan teman untuk terbang instan menyusulnya.\n\n💜 ULTIMATE (SKILL 3) - CIRCLING EAGLE:\nMathilda mengunci satu hero target lawan lalu terbang berputar mengelilinginya di udara selama beberapa detik (kebal CC). Roh wisps otomatis menyerang musuh di sekitar, gunakan kembali untuk menabrak target untuk efek Airborne.",
     "best_build": "\n\nTough Boots:\n(Mengurangi efek kontrol lawan agar lancar bergerak melakukan set-up atau kabur dari perang),\n\nFlask of the Oasis:\n(Item wajib utama karena meningkatkan kapasitas serapan Shield dari pusaran angin Guiding Wind secara ekstrem),\n\nFleeting Time:\n(Memotong durasi cooldown dari tarian terbang Ultimate-nya agar ia selalu siap menculik atau kabur di setiap war),\n\nDominance Ice:\n(Menurunkan Attack Speed musuh serta mematikan efek HP Regen/Shield lawan saat Mathilda terbang menempel target),\n\nAntique Cuirass:\n(Mengurangi daya serang fisik musuh secara masif saat Mathilda menahan gempuran di garda terdepan pertempuran),\n\nImmortality:\n(Asuransi nyawa kedua yang sangat berharga bagi inisiator support agar tetap bisa menyelamatkan kawan pasca hidup kembali)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Ancestral_Guidance.png/revision/latest?cb=20210809085552",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Soul_Bloom.png/revision/latest?cb=20210809085520",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Guiding_Wind.png/revision/latest?cb=20210809085631",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Circling_Eagle.png/revision/latest?cb=20210809085702"
   },
   {
     "her": "Melissa",
     "roll": "Marksman | Reap, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20241021143430",
     "stat_durability": "35",
     "stat_offense": "90",
     "stat_control": "50",
@@ -1434,15 +1434,15 @@
     "skill_title": "Doll Buster (Pasif) [Combo: Skill 2 (Lempar Boneka Giggles) -> Skill 1 (Dash & Tambah Speed) -> Spam Basic Attack Tembus Boneka -> Ultimate (Tameng Anti Melee jika Didekati)]",
     "skill_desc": "🔴 PASIF - DOLL BUSTER:\nMelissa memberikan 125% damage lebih besar kepada minion, creep hutan, serta seluruh unit boneka panggilannya sendiri (Giggles) karena kemampuan teknik penjahit sihir kutukannya.\n\n🔵 SKILL 1 - FALLING!:\nMelissa melakukan dash pendek ke depan, meningkatkan Attack Speed miliknya secara drastis selama beberapa detik. Jika boneka dari Skill 2 aktif di area, posisinya akan ikut terseret mendekati target.\n\n🟡 SKILL 2 - EYES ON YOU!:\nMelissa melemparkan boneka kutukan Giggles ke depan untuk mengikat musuh di sekitarnya. Seluruh Basic Attack Melissa yang mengenai boneka tersebut akan mentransfer damage persentase penuh ke semua musuh terikat.\n\n💜 ULTIMATE (SKILL 3) - GO AWAY!:\nMelissa memanggil lingkaran pelindung gelembung angin suci di sekelilingnya selama beberapa detik. Hero musuh jarak dekat (melee) yang mencoba merangsek masuk akan terpental jauh ke luar area.",
     "best_build": "\n\nSwift Boots:\n(Meningkatkan Attack Speed awal agar transfer damage tembakan ke boneka kutukan menjadi lebih cepat),\n\nCorrosion Scythe:\n(Memberikan efek slow lewat Basic Attack agar musuh kesulitan meloloskan diri dari jeratan bonekanya),\n\nDemon Hunter Sword:\n(Sangat mematikan karena efek jika pengurangan persen HP musuh ikut terhitung secara massal melalui pantulan bonekanya),\n\nGolden Staff:\n(Mengubah Critical Rate menjadi Attack Speed konstan untuk mempercepat pemicuan pasif on-hit secara berkala),\n\nWind of Nature:\n(Item penyelamat wajib agar Melissa kebal dari semua Physical Damage selama 2 detik saat diserang marksman musuh),\n\nMalefic Roar:\n(Menembus physical armor musuh persentase besar untuk merontokkan pertahanan tank pelindung lawan di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Doll_Buster.png/revision/latest?cb=20220311092717",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Falling%21.png/revision/latest?cb=20220311092948",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Eyes_on_You%21.png/revision/latest?cb=20220311093026",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Go_Away%21.png/revision/latest?cb=20220311093058"
   },
   {
     "her": "Minotaur",
     "roll": "Tank, Support | Crowd Control, Healer",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20241021141046",
     "stat_durability": "90",
     "stat_offense": "40",
     "stat_control": "85",
@@ -1450,15 +1450,15 @@
     "skill_title": "Rage Mode (Pasif) [Combo: Skill 1 (Lompat & Airborne) -> Ultimate (Geprekan Tanah 3x Massal) -> Skill 2 (Heal Tim)]",
     "skill_desc": "🔴 PASIF - RAGE MODE:\nSetiap kali skill Minotaur mengenai musuh atau teman, ia mengurangi Physical & Magic Defense musuh, atau meningkatkan defense teman. Menggunakan skill juga mengumpulkan energi amarahnya.\n\n🔵 SKILL 1 - DESPAIR STOMP:\nMinotaur melompat ke lokasi target, memberikan Physical Damage area, menyebabkan efek slow berat, serta menghempaskan musuh ke udara (Airborne) jika dalam kondisi Enraged.\n\n🟡 SKILL 2 - MOTIVATION ROAR:\nMinotaur melepaskan raungan suci, memulihkan HP dirinya dan rekan tim di sekitar secara instan, serta memperkuat Basic Attack-nya untuk memberikan bonus damage area.\n\n💜 ULTIMATE (SKILL 3) - MINOAN FURY:\nMinotaur menghantam tanah secara beruntun sebanyak 3 kali di area lingkaran raksasa. Menghasilkan Physical Damage masif, menyebabkan efek slow, dan dua hantaman terakhir memicu efek Airborne mutlak pada seluruh musuh.",
     "best_build": "\n\nTough Boots:\n(Mengurangi efek kontrol lawan di lini depan agar lancar memosisikan hantaman palu raksasanya),\n\nFlask of the Oasis:\n(Item pendukung krusial karena memberikan pasif tameng shield darurat saat ia melakukan heal kawan yang sekarat),\n\nDominance Ice:\n(Menurunkan Attack Speed musuh serta mematikan efek HP Regen/Shield lawan saat Minotaur maju menempel barisan war),\n\nAthena's Shield:\n(Menahan gempuran ledakan Magic Damage besar dari mage lawan agar Minotaur tetap kokoh berdiri di garda depan),\n\nAntique Cuirass:\n(Mengurangi Physical Attack musuh secara drastis saat Minotaur menerima pukulan fisik dari lawan),\n\nImmortality:\n(Kesempatan hidup kedua untuk kembali melakukan counter-set palu mengacaukan area formasi pertempuran lawan)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Rage_Incarnate.png/revision/latest?cb=20210616060409",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Despair_Stomp.png/revision/latest?cb=20210616060356",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Motivation_Rage.png/revision/latest?cb=20210616060342",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Minoan_Fury.png/revision/latest?cb=20210616060308"
   },
   {
     "her": "Minsittar",
     "roll": "Fighter | Crowd Control, Initiator",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20241021142435",
     "stat_durability": "75",
     "stat_offense": "70",
     "stat_control": "85",
@@ -1466,15 +1466,15 @@
     "skill_title": "All Hail the King (Pasif) [Combo: Skill 1 (Tarik Tombak Massal) -> Skill 2 (Tameng Tusukan Beruntun) -> Ultimate (Area Kurungan Anti Blink)]",
     "skill_desc": "🔴 PASIF - ALL HAIL THE KING:\nSetiap kali Minsittar melakukan serangan skill atau basic attack, ia meninggalkan stack Mark. Pada stack ke-5, serangan berikutnya memicu ledakan damage emas, memulihkan HP, dan memberikan bonus Gold bagi tim.\n\n🔵 SKILL 1 - SPEAR OF GLORY:\nMinsittar menusukkan tombak sucinya ke depan, memberikan Physical Damage. Saat tombak ditarik kembali, seluruh hero musuh yang berada di jalur lintasan akan ikut terseret paksa ke arahnya.\n\n🟡 SKILL 2 - SHIELD ASSAULT:\nMinsittar membangun perisai pertahanan emas ke depan, mengurangi damage yang diterima dari depan, lalu menusuk tombak secara beruntun berkecepatan tinggi yang memicu efek slow berat.\n\n💜 ULTIMATE (SKILL 3) - KING'S CALLING:\nMinsittar melompat maju dan memanggil 4 prajurit kerajaan untuk membentuk area kurungan melingkar. Musuh di dalam area menerima slow berat, damage berkala, dan mutlak tidak bisa menggunakan seluruh skill berjenis dash/blink.",
     "best_build": "\n\nWarrior Boots:\n(Menambah pertahanan fisik awal agar tangguh saat melakukan adu jotos perebutan minion awal di Exp Lane),\n\nCorrosion Scythe:\n(Sangat bersinergi karena mempercepat tusukan beruntun skill 2 sekaligus memberikan efek slow tambahan pada target),\n\nDemon Hunter Sword:\n(Menghancurkan bar HP hero tebal dengan instan lewat tusukan beruntun perisai pelindung Shield Assault-nya),\n\nGolden Staff:\n(Mengubah Critical Rate menjadi Attack Speed ekstra demi mempercepat proses pengumpulan stack pasif emasnya),\n\nAntique Cuirass:\n(Mengurangi Physical Attack musuh secara drastis saat Minsittar mengurung lawan di dalam lingkaran prajuritnya),\n\nImmortality:\n(Memberikan asuransi nyawa kedua agar tetap bisa menahan posisi garis depan pertahanan tim pasca bangkit)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Mark_of_the_King.png/revision/latest?cb=20230315070651",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Spear_of_Glory.png/revision/latest?cb=20230315070700",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Shield_Assault.png/revision/latest?cb=20230315070653",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/King%27s_Calling.png/revision/latest?cb=20230315070647"
   },
   {
     "her": "Moskov",
     "roll": "Marksman | Burst, Chase",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20241021141344",
     "stat_durability": "35",
     "stat_offense": "95",
     "stat_control": "70",
@@ -1482,10 +1482,10 @@
     "skill_title": "Spear of Quiescence (Pasif) [Combo: Skill 1 (Dash & Cari Sudut) -> Skill 2 (Tombak Pasak Musuh ke Dinding/Stun) -> Spam Basic Attack Tembus Belakang -> Ultimate (Tombak Global Teleport)]",
     "skill_desc": "🔴 PASIF - SPEAR OF QUIESCENCE:\nBasic Attack Moskov dapat menembus tubuh target dan memberikan damage kepada musuh di belakang mereka. Setiap hit Basic Attack juga memotong cooldown Skill 1 dan Skill 2 miliknya sebesar 0.8 detik.\n\n🔵 SKILL 1 - ABYSS WALKER:\nMoskov melakukan teleportasi dash pendek ke arah yang ditentukan, meningkatkan Attack Speed-nya secara ekstrem selama beberapa detik, dan membuat serangan tembusnya semakin sakit.\n\n🟡 SKILL 2 - SPEAR OF MISERY:\nMoskov menembakkan tombak berat ke target musuh untuk efek knockback. Jika musuh terhempas mengenai dinding atau hero lawan lainnya, mereka akan terkena efek Stun mutlak selama 1.5 detik.\n\n💜 ULTIMATE (SKILL 3) - SPEAR OF DESTRUCTION:\nMoskov melemparkan Tombak Penghancur raksasa melintasi seluruh map secara global dalam garis lurus. Mengenai hero musuh memberikan damage, slow berat, dan memungkinkan Moskov berteleportasi langsung ke belakang target.",
     "best_build": "\n\nSwift Boots:\n(Meningkatkan Attack Speed awal agar siklus pemotongan cooldown pasif dari basic attack-nya berjalan super cepat),\n\nCorrosion Scythe:\n(Memberikan efek slow lewat Basic Attack agar musuh kesulitan lari dari jarak berondongan tombak tembusnya),\n\nDemon Hunter Sword:\n(Sangat mematikan karena efek pasif pengurangan persen HP musuh ikut terpicu menembus ke barisan belakang lawan),\n\nGolden Staff:\n(Mengubah Critical Rate menjadi Attack Speed konstan demi memaksimalkan kecepatan tusukan Abyss Walker-nya),\n\nWind of Nature:\n(Item penyelamat wajib agar Moskov kebal dari semua Physical Damage selama 2 detik saat melakukan duel jarak dekat),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar untuk merontokkan pertahanan tank pelindung lawan di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Spear_of_Quiescence.png/revision/latest?cb=20231110024956",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Abyss_Walker.png/revision/latest?cb=20231110025034",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Spear_of_Misery.png/revision/latest?cb=20231110025107",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Spear_of_Destruction.png/revision/latest?cb=20231110025126"
   },
   {
     "her": "Miya",
@@ -1506,7 +1506,7 @@
   {
     "her": "Natalia",
     "roll": "Assassin | Burst, Chase",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20241021141201",
     "stat_durability": "25",
     "stat_offense": "95",
     "stat_control": "55",
@@ -1514,15 +1514,15 @@
     "skill_title": "Assassin Instinct (Pasif) [Combo Bokong: Masuk Semak (Mode Invisible) -> Basic Attack Diperkuat (Silenced) -> Skill 2 (Asap) -> Skill 1 (Tusuk Silang) -> Ultimate]",
     "skill_desc": "🔴 PASIF - ASSASSIN INSTINCT:\nJika Natalia bersembunyi di semak selama 2 detik tanpa menerima damage, ia memasuki mode Invisible (menghilang). Serangan dari belakang target memberikan damage kritikal tambahan dan memicu efek Silence singkat.\n\n🔵 SKILL 1 - CLAW DASH:\nNatalia melakukan tusukan dash ke arah depan, memberikan Physical Damage kepada musuh di jalurnya. Skill ini dapat digunakan sekali lagi dalam waktu singkat jika mengenai target musuh.\n\n🟡 SKILL 2 - SMOKE BOMB:\nNatalia melemparkan bom asap di tempatnya berdiri, memperlambat gerakan musuh di dalam asap, meningkatkan attack speed dirinya, serta menjadikannya kebal total terhadap semua Basic Attack musuh.\n\n💜 ULTIMATE (SKILL 3) - THE HUNT:\nNatalia mengaktifkan insting berburunya secara instan untuk langsung memasuki mode Assassin Instinct (menghilang) tanpa perlu menunggu di semak, serta memperkuat poin Physical Attack miliknya.",
     "best_build": "\n\nRapid Boots:\n(Memberikan kecepatan lari tertinggi di luar pertarungan agar Natalia bisa menjelajah mencari core musuh dengan instan),\n\nBlade of Heptaseas:\n(Skat bonus damage kejutan awal dari semak bersinergi penuh melipatgandakan tusukan pasif menghilangnya),\n\nHunter Strike:\n(Memberikan Physical Penetration dan tambahan lari instan untuk kabur setelah sukses mengeksekusi penyihir lawan),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memastikan marksman musuh mati seketika dalam sekali siklus tusukan belati),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar demi merobek pertahanan garda luar yang mencoba memblokirnya),\n\nRose Gold Meteor:\n(Asuransi pelindung perisai darurat apabila Natalia terdeteksi oleh radar musuh saat mencoba menyelinap masuk)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Assassin_Instinct.png/revision/latest?cb=20210816210625",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Claw_Dash.png/revision/latest?cb=20210816210737",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Smoke_Bomb.png/revision/latest?cb=20210816210831",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/The_Hunt.png/revision/latest?cb=20210816210938"
   },
   {
     "her": "Natan",
     "roll": "Marksman | Burst, Reap",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20241021143246",
     "stat_durability": "35",
     "stat_offense": "90",
     "stat_control": "50",
@@ -1530,10 +1530,10 @@
     "skill_title": "Theory of Everything (Pasif) [Combo: Ultimate (Panggil Kloningan Garis Waktu) -> Skill 2 (Dorong Tarik ke Tengah) -> Skill 1 (Sinar Energi) -> Spam Basic Attack Kecepatan Cahaya]",
     "skill_desc": "🔴 PASIF - THEORY OF EVERYTHING:\nNatan mengubah seluruh bonus Physical Attack menjadi Magic Damage pada Basic Attack-nya. Setiap kali skill mengenai musuh, ia mengumpulkan stack Entanglement yang meningkatkan Attack Speed dan Movement Speed.\n\n🔵 SKILL 1 - SUPERPOSITION:\nNatan menembakkan gelombang energi gravitasi berdensitas tinggi ke area target, memberikan Magic Damage area yang sangat perih kepada seluruh musuh yang berada di jalur ledakan.\n\n🟡 SKILL 2 - INTERFERENCE:\nNatan meluncurkan bola gravitasi penarik ke depan, memberikan Magic Damage and mendorong musuh mundur. Di titik akhir perjalanannya, bola meledak menarik kembali seluruh musuh ke pusat pusaran.\n\n💜 ULTIMATE (SKILL 3) - ENTROPY:\nNatan membuka gerbang wormhole garis waktu dan memanggil kloningan bayangan dirinya (Reverse-Clone) di ujung area. Kloningan meniru seluruh gerakan, skill, dan basic attack Natan secara terbalik.",
     "best_build": "\n\nArcane Boots:\n(Sangat penting karena basic attack Natan berskala magic sehingga penetrasi sihir ini membuat tembakannya bocor),\n\nFeather of Heaven:\n(Item inti penyedia attack speed tinggi serta tambahan bonus damage sihir pada setiap hantaman peluru energinya),\n\nStarlium Scythe:\n(Memicu True Damage tinggi pada Basic Attack setelah mengeluarkan skill, mempercepat proses pelelehan tank lawan),\n\nHoly Crystal:\n(Menimbun Magic Power dalam jumlah masif agar kalkulasi damage dari tembakan ganda kloningannya semakin maut),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara datar karena terekspos berondongan ratusan peluru energi dari Natan),\n\nDivine Glaive:\n(Mengatasi item pertahanan magis tebal milik tank musuh agar daya tembus Natan tetap maksimal di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Theory_of_Everything.png/revision/latest?cb=20210903170055",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Superposition.png/revision/latest?cb=20210903170126",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Interference%21.png/revision/latest?cb=20210903170153",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Entropy%3F.png/revision/latest?cb=20210903170224"
   },
   {
     "her": "Nana",
@@ -1554,7 +1554,7 @@
   {
     "her": "Nolan",
     "roll": "Assassin | Chase, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20241021140807",
     "stat_durability": "40",
     "stat_offense": "95",
     "stat_control": "45",
@@ -1562,15 +1562,15 @@
     "skill_title": "Dimensional Rift (Pasif) [Combo: Skill 1 (Sabetan Tegak) -> Skill 2 (Dash Sabetan Mendatar) -> Celah Bertemu (Ledakan Energi & Tarik) -> Ultimate (Tebasan Silang Pembersih CC)]",
     "skill_desc": "🔴 PASIF - DIMENSIONAL RIFT:\nSkill Nolan memotong ruang dan meninggalkan celah dimensi (Rift) di tanah selama 5 detik. Jika dua celah dimensi bersentuhan, mereka akan meledak, memberikan Physical Damage besar dan menarik musuh ke tengah.\n\n🔵 SKILL 1 - EXPANSION:\nNolan melakukan sabetan pedang kosmik vertikal ke arah depan, memberikan Physical Damage kepada musuh yang terkena dan meninggalkan satu Celah Dimensi lurus di tanah.\n\n🟡 SKILL 2 - GAUGE:\nNolan melakukan dash cepat ke arah yang ditentukan sambil melakukan tebasan mendatar, memberikan Physical Damage pada musuh di jalurnya dan meninggalkan Celah Dimensi baru.\n\n💜 ULTIMATE (SKILL 3) - FRACTURE:\nNolan melakukan 3 kali tebasan silang kosmik berkecepatan tinggi ke depan, memberikan Physical Damage masif dan menghapus semua efek debuff CC pada dirinya (Purify alami) sambil mundur selangkah.",
     "best_build": "\n\nTough Boots:\n(Meminimalkan durasi kontrol musuh jika Nolan melakukan kesalahan penempatan posisi dash dimensi-nya),\n\nHunter Strike:\n(Memberikan Physical Penetration dan bonus kecepatan gerak instan setelah sabetan pedang dimensinya mengenai sasaran),\n\nBlade of Heptaseas:\n(Memberikan damage awal yang sangat besar saat melakukan inisiasi penyerangan kilat dari dalam semak-semak),\n\nBlade of Despair:\n(Meningkatkan serangan fisik secara drastis untuk memaksimalkan setiap ledakan berantai dari celah dimensinya),\n\nMalefic Roar:\n(Menembus Armor fisik musuh dalam persentase besar demi melumat hero berdarah tebal pelindung lawan),\n\nImmortality:\n(Asuransi nyawa kedua yang sangat berharga bagi assassin masuk barisan belakang agar bisa kabur setelah eliminasi)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Dimensional_Rift.png/revision/latest?cb=20231110015640",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Expansion.png/revision/latest?cb=20231110015656",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Gauge.png/revision/latest?cb=20231110015706",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Fracture.png/revision/latest?cb=20231110015726"
   },
   {
     "her": "Novaria",
     "roll": "Mage | Poke, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20241021140722",
     "stat_durability": "30",
     "stat_offense": "80",
     "stat_control": "65",
@@ -1578,15 +1578,15 @@
     "skill_title": "Star Trail (Pasif) [Combo: Ultimate (Buka Vision Lingkaran Astral) -> Skill 2 Fase 1 (Tarik Bola) -> Tembus Dinding -> Skill 2 Fase 2 (Tembakkan Bola Jarak Jauh) -> Skill 1 (Slow)]",
     "skill_desc": "🔴 PASIF - STAR TRAIL:\nSeluruh skill Novaria yang mengenai musuh akan meninggalkan Astral Echo, memicu meteor jatuh kecil untuk memberikan damage, serta membuka jarak pandang vision posisi musuh di dalam map secara mutlak.\n\n🔵 SKILL 1 - ASTRAL METEOR:\nNovaria menjatuhkan bola meteor astral ke area target, memberikan Magic Damage berkala, memperlambat pergerakan musuh, dan memberikan damage tambahan kepada minion jalur.\n\n🟡 SKILL 2 - ASTRAL RECALL:\nNovaria menarik bola astral dari kejauhan (meningkatkan pergerakan & kebal dinding). Gunakan kembali untuk menembakkan bola tersebut ke depan; damage meningkat ganda berdasarkan jarak perjalanan bola.\n\n💜 ULTIMATE (SKILL 3) - ASTRAL ECHO:\nNovaria menembakkan rantai energi astral raksasa ke depan yang menyebar luas, membuka vision map semak, menyebabkan slow berat, dan memperluas ukuran hitbox tubuh musuh hingga 2.5 kali lipat.",
     "best_build": "\n\nMagic Shoes:\n(Meningkatkan Cooldown Reduction agar Novaria bisa terus memicu penembakan bola jarak jauhnya),\n\nEnchanted Talisman:\n(Item paling wajib karena memberikan pasif suplai Mana melimpah serta batas Cooldown Reduction tambahan agar bisa spam skill),\n\nIce Queen Wand:\n(Memberikan efek slow tambahan yang membuat musuh terjebak dalam pembesaran hitbox area lingkarannya),\n\nGlowing Wand:\n(Membakar HP musuh secara berkala lewat rentetan jepretan bola astral jauhnya sekaligus memberikan efek anti-heal),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara datar karena terekspos cicilan dari skill meteor putaran pertamanya),\n\nDivine Glaive:\n(Mengatasi hero tank musuh yang membeli Magic Defense tinggi di fase late game agar bola recall-nya tetap perih)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Star_Trail.png/revision/latest?cb=20230420164248",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Astral_Meteor.png/revision/latest?cb=20230420164231",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Astral_Recall.png/revision/latest?cb=20230420164237",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Astral_Echo.png/revision/latest?cb=20230420164226"
   },
   {
     "her": "Obsidia",
     "roll": "Marksman | Finisher, Damage",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest?cb=20250928040037",
     "stat_durability": "35",
     "stat_offense": "95",
     "stat_control": "65",
@@ -1594,15 +1594,15 @@
     "skill_title": "Sovereign of Dark's End (Pasif) [Combo Ikatan Maut: Skill 1 (Kumpulkan Stack Pecahan) -> Ultimate (Tembak Jarum Ikat Musuh & Tarik Diri) -> Skill 2 (Shadowmeld) -> Berondong Basic Attack]",
     "skill_desc": "🔴 PASIF - SOVEREIGN OF DARK'S END:\nObsidia mengumpulkan Bone Energy lewat serangannya untuk membentuk hingga 25 Bone Shards. Saat melakukan Basic Attack, seluruh pecahan shards otomatis melesat menghantam target demi damage ekstra masif.\n\n🔵 SKILL 1 - ABYSSAL BONE NEEDLE:\nObsidia meluncurkan jarum tulang Abyss ke depan, memberikan Physical Damage area serta mengumpulkan energi pasif pecahan shards secara instan apabila mengenai musuh.\n\n🟡 SKILL 2 - PHANTOM SHADOWMELD:\nObsidia menyelam ke dalam bayangan Abyss, memasuki wujud Shadowmeld yang memberikan peningkatan Movement Speed 500% ekstrem selama 0.3 detik untuk repositioning lincah.\n\n💜 ULTIMATE (SKILL 3) - BONES OF WRATH:\nObsidia menembakkan rantai tulang kutukan ke target hero, memberikan Stun, menarik dirinya, dan mengikat posisi musuh agar tidak bisa menggunakan skill blink/dash sejauh 4 unit selama 3 detik.",
     "best_build": "\n\nSwift Boots:\n(Wajib digunakan Marksman Abyss untuk mendongkrak Attack Speed awal dalam pengumpulan energi serpihan tulang),\n\nCorrosion Scythe:\n(Sangat mematikan karena efek slow on-hit item ini ikut terpicu ganda lewat berondongan pasif pecahan shards-nya),\n\nDemon Hunter Sword:\n(Menghancurkan bar HP tank tebal musuh dalam sekejap lewat integrasi persentase damage on-hit miliknya),\n\nGolden Staff:\n(Mengubah Critical Rate menjadi Attack Speed konstan untuk memaksimalkan siklus semburan pasif pecahan tulang),\n\nMalefic Gun:\n(Memperluas jarak jangkauan tembak Obsidia agar tetap aman saat mengunci barisan belakang lawan),\n\nMalefic Roar:\n(Menembus physical armor musuh persentase besar untuk merontokkan pertahanan tank pelindung di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Return_to_Bone.png/revision/latest?cb=20250918010853",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Abyssal_Bone_Needle.png/revision/latest?cb=20250918010947",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Phantom_Shadowmeld.png/revision/latest?cb=20250918011152",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hunt_of_Bone.png/revision/latest?cb=20250918011139"
   },
   {
     "her": "Odette",
     "roll": "Mage | Poke, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20250117141936",
     "stat_durability": "35",
     "stat_offense": "85",
     "stat_control": "70",
@@ -1610,10 +1610,10 @@
     "skill_title": "Lakeshore Ambience (Pasif) [Combo: Skill 1 -> Skill 2 (Kunci Bola Energi/Stun) -> Ultimate + Flicker (Nyanyian Angsa Badai Sihir Massal)]",
     "skill_desc": "🔴 PASIF - LAKESHORE AMBIENCE:\nSetelah menggunakan skill, Basic Attack Odette berikutnya akan mengeluarkan gelombang suara sihir yang memantul di antara musuh di sekitar berkali-kali untuk memberikan Magic Damage tambahan.\n\n🔵 SKILL 1 - AVIAN AUTHORITY:\nOdette memusatkan energi angsa setianya untuk menembakkan gelombang burung sihir ke depan, memberikan Magic Damage dan menyebabkan efek slow berat sebesar 30% kepada target.\n\n🟡 SKILL 2 - BLUE NOVA:\nOdette menembakkan bola energi sihir ke depan, memberikan Magic Damage and mengunci musuh (Stun). Setelah mengenai target, bola membelah menjadi dua untuk mengunci musuh di sampingnya.\n\n💜 ULTIMATE (SKILL 3) - SWAN SONG:\nOdette melompat pendek and menyanyikan badai sihir raksasa melingkar di sekelilingnya, memberikan Magic Damage berkelanjutan berkecepatan tinggi, mendapatkan Shield tebal, and kebal dari interupsi CC kecil.",
     "best_build": "\n\nArcane Boots:\n(Meningkatkan penetrasi sihir awal agar lantunan lagu badai ultimatenya langsung melelehkan pertahanan musuh),\n\nLightning Truncheon:\n(Memberikan cipratan damage ekstra untuk membersihkan minion jalur sekaligus mencicil HP hero musuh),\n\nGenius Wand:\n(Sangat membantu merontokkan Magic Defense lawan secara datar saat gelombang Swan Song memantul berkali-kali),\n\nHoly Crystal:\n(Meningkatkan Magic Power dalam persentase besar demi mematangkan burst kombo nyanyian angsa mautnya),\n\nGlowing Wand:\n(Membakar HP musuh secara berkala lewat rentetan hits dari area lingkaran sihir raksasa milik Odette),\n\nDivine Glaive:\n(Menembus Magic Defense tinggi milik lawan di late game agar damage ledakan nadanya tetap perih)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Lakeshore_Ambience.png/revision/latest?cb=20210930072957",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Avian_Authority.png/revision/latest?cb=20210930073008",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Blue_Nova.png/revision/latest?cb=20210930073018",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Swan_Song.png/revision/latest?cb=20210930073037"
   },
   {
     "her": "Paquito",
