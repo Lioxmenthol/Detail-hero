@@ -1600,7 +1600,7 @@
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hunt_of_Bone.png/revision/latest?cb=20250918011139"
   },
   {
-    "her": "Odette",
+    "her": "Odete",
     "roll": "Mage | Poke, Burst",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20250117141936",
     "stat_durability": "35",
@@ -1618,7 +1618,7 @@
   {
     "her": "Paquito",
     "roll": "Fighter | Chase, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20241021143146",
     "stat_durability": "65",
     "stat_offense": "90",
     "stat_control": "65",
@@ -1626,15 +1626,15 @@
     "skill_title": "Champ Stance (Pasif) [Combo Instan Champ: Skill 2 -> Skill 2 (Enhanced/Pukulan Dorong) -> Skill 1 -> Ultimate (Uppercut Angkat Musuh)]",
     "skill_desc": "🔴 PASIF - CHAMP STANCE:\nPaquito mengumpulkan Champ Stance stack saat skill-nya mengenai musuh. Pada stack ke-3, ia memasuki mode Champ yang memperkuat skill berikutnya tanpa jeda cooldown (no cooldown).\n\n🔵 SKILL 1 - HEAVY LEFT PUNCH:\nPaquito melayangkan pukulan kiri yang berat ke depan, memberikan Physical Damage. Jika mengenai hero musuh, ia mendapatkan Shield pelindung penahan damage (Shield bertambah besar di mode Champ).\n\n🟡 SKILL 2 - JAB:\nPaquito melakukan dash kilat ke depan and melepaskan pukulan Jab lurus yang sangat keras, memberikan Physical Damage area berbentuk persegi panjang pendek di depannya.\n\n💜 ULTIMATE (SKILL 3) - KNOCKOUT STRIKE:\nPaquito melayangkan pukulan siku pendorong diikuti hantaman jeratan area. Versi Champ mengubah pukulan akhir menjadi Uppercut mematikan yang menghempaskan musuh ke udara (Airborne) selama 1 detik.",
     "best_build": "\n\nWarrior Boots:\n(Menambah pertahanan fisik awal agar tangguh saat melakukan adu jotos satu lawan satu di Exp Lane atau Jungle),\n\nHunter Strike:\n(Memberikan Physical Penetration dan kecepatan lari tambahan setelah mendaratkan kombo Jab kilatnya),\n\nBlade of Heptaseas:\n(Memicu damage kejutan yang sangat besar pada pukulan pertama setelah Paquito keluar dari semak pertahanan),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memastikan musuh empuk mati seketika dalam satu siklus kombo tinjunya),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar demi melumat hero tank atau fighter pelindung lawan),\n\nImmortality:\n(Sangat penting untuk menjaga petarung garda depan beresiko tinggi agar dapat menggunakan kombo kabur pasca bangkit)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Champ_Stance.png/revision/latest?cb=20210315233746",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Heavy_Left_Punch.png/revision/latest?cb=20210315233622",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Jab.png/revision/latest?cb=20210315233645",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Knockout_Strike.png/revision/latest?cb=20210315233719"
   },
   {
     "her": "Parsha",
     "roll": "Mage | Burst, Poke",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20241021141905",
     "stat_durability": "25",
     "stat_offense": "90",
     "stat_control": "65",
@@ -1642,15 +1642,15 @@
     "skill_title": "Spiritual Unity (Pasif) [Combo: Skill 1 (Tandai Target) -> Skill 2 (Semburan Garis/Picu Stun) -> Ultimate (Hujan Pemboman Udara 4x)]",
     "skill_desc": "🔴 PASIF - SPIRITUAL UNITY:\nSetiap beberapa detik, Verri (burung Pharsa) memasuki mode berburu, memperkuat Basic Attack Pharsa berikutnya untuk memberikan Magic Damage tambahan and menyebabkan efek slow pada target.\n\n🔵 SKILL 1 - CURSE OF CROW:\nPharsa melemparkan mantra gagak ke area target, memberikan Magic Damage dan meninggalkan mark. Serangan berikutnya dari Pharsa kepada target bermark akan memicu efek Stun selama 1 detik.\n\n🟡 SKILL 2 - ENERGY IMPACT:\nPharsa melepaskan gelombang energi sihir berbentuk garis lurus ke depan, memberikan Magic Damage kepada seluruh musuh yang berada di dalam jalur lintasannya.\n\n💜 ULTIMATE (SKILL 3) - FEATHERED AIR STRIKE:\nPharsa melayang di udara and membuka radar pemboman udara raksasa selama 8 detik. Ia dapat menjatuhkan hingga 4 ledakan sihir udara masif ke arah target yang memberikan damage luar biasa sakit.",
     "best_build": "\n\nArcane Boots:\n(Meningkatkan penetrasi sihir awal agar setiap hantaman bom udaranya langsung memicu kepanikan musuh),\n\nLightning Truncheon:\n(Memberikan tambahan bonus ledakan kilat elektrik ekstra yang bersinergi melipatgandakan damage bom udaranya),\n\nClock of Destiny:\n(Memberikan tambahan HP dan Mana berkala yang menambah kapasitas ketahanan tubuhnya di lini high-ground),\n\nHoly Crystal:\n(Menimbun Magic Power dalam jumlah sangat masif agar ledakan dari Feathered Air Strike mematikan core musuh),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara datar karena terekspos cicilan dari bom udara pertamanya),\n\nDivine Glaive:\n(Mengatasi item pertahanan magis tinggi yang dibeli tank lawan agar daya tembus Pharsa tetap maksimal di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Spiritual_Unity.png/revision/latest?cb=20240120063431",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Curse_of_Crow.png/revision/latest?cb=20240122034020",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Energy_Impact.png/revision/latest?cb=20240122034024",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Feathered_Air_Strike.png/revision/latest?cb=20240122034028"
   },
   {
     "her": "Phoveus",
     "roll": "Fighter | Chase, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest?cb=20241021143231",
     "stat_durability": "75",
     "stat_offense": "70",
     "stat_control": "60",
@@ -1658,15 +1658,15 @@
     "skill_title": "Demonic Intuition (Pasif) [Combo Anti-Blink: Skill 2 (Tarik Pusaran) -> Musuh Bergerak Terpaksa -> Ultimate (Lompat Hantam Berkali-kali) -> Skill 1 (Spam Shield)]",
     "skill_desc": "🔴 PASIF - DEMONIC INTUITION:\nKetika ada hero musuh yang menggunakan skill blink, dash, atau berpindah posisi dalam jarak dekat, seluruh cooldown skill Phoveus akan dipangkas secara instan sebesar 1 detik.\n\n🔵 SKILL 1 - MALICIOUS TERROR:\nPhoveus menghantamkan bola besinya ke tanah, memberikan Magic Damage dan memberikan Shield pelindung. Skill ini memiliki stack penyimpanan dan areanya melebar jika mengenai musuh.\n\n🟡 SKILL 2 - ASTARTI'S EYE:\nPhoveus memanggil mata ibas di area target yang memberikan Magic Damage. Setelah jeda singkat, mata tersebut akan menarik paksa seluruh musuh di sekitar menuju ke pusat area jangkauan.\n\n💜 ULTIMATE (SKILL 3) - DEMONIC FORCE:\nPhoveus mengaktifkan radar pelacak mutlak. Jika hero musuh menggunakan dash atau blink di manapun di dekatnya, Phoveus dapat langsung berteleportasi terbang di atas kepala mereka untuk menggeprek tanah.",
     "best_build": "\n\nWarrior Boots:\n(Menambah pertahanan fisik awal agar tangguh saat melakukan adu jotos menempel hero lincah lawan),\n\nClock of Destiny:\n(Item wajib penyedia HP dan Mana masif yang bersinergi memperkuat kapasitas daya tahan tubuhnya saat war),\n\nOracle:\n(Sangat wajib karena memperkuat penyerapan Shield pelindung dari skill 1 Malicious Terror-nya secara signifikan),\n\nDominance Ice:\n(Menurunkan Attack Speed musuh serta mematikan fungsi regen/shield lawan yang coba kabur menggunakan dash),\n\nConcentrated Energy:\n(Memberikan efek Magic Lifesteal tinggi agar HP Phoveus terus terisi penuh selama melompat menggeprek musuh),\n\nImmortality:\n(Menjamin keselamatan inisiator fighter agar tetap bisa melakukan counter-set pasca hidup kembali)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Demonic_Force.png/revision/latest?cb=20240929060141",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Demonic_Impact.png/revision/latest?cb=20240929060119",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Dark_Wave.png/revision/latest?cb=20240929060137",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Infernal_Pursuit.png/revision/latest?cb=20240802111808"
   },
   {
     "her": "Popol & Kupa",
     "roll": "Marksman | Push, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20241021142932",
     "stat_durability": "40",
     "stat_offense": "85",
     "stat_control": "75",
@@ -1674,15 +1674,15 @@
     "skill_title": "Iceland Companions (Pasif) [Combo Berburu: Ultimate (Mode Serigala Raksasa) -> Skill 1 (Perintahkan Gigit & Stun) -> Skill 2 (Kupa Lindungi Popol/Airborne jika Dekat) -> Skill 3 (Pasang Perangkap)]",
     "skill_desc": "🔴 PASIF - ICELAND COMPANIONS:\nPopol selalu bertarung berdampingan dengan serigala setianya, Kupa. Kupa mewarisi stat item Popol; jika Kupa tereliminasi, Popol dapat memanggilnya kembali ke pertempuran lewat pengisian daya singkat.\n\n🔵 SKILL 1 - BITE 'EM, KUPA!:\nPopol memerintahkan Kupa untuk menerjang dan menggigit hero target, memberikan Physical Damage beruntun. Versi Ultimate membuat gigitan Kupa memicu efek Stun selama 1 detik.\n\n🟡 SKILL 2 - KUPA, HELP!:\nPopol memanggil Kupa kembali ke tubuhnya secara instan untuk mendapatkan Shield pelindung. Versi Ultimate membuat pendaratan Kupa memicu efek Knock-up (Airborne) pada musuh di dekat Popol.\n\n💜 ULTIMATE (SKILL 3) - WE ARE ANGRY!:\nPopol and Kupa memasuki mode mengamuk selama 12 detik. Kupa bertransformasi menjadi Serigala Raksasa Alpha, memulihkan HP-nya, serta mendongkrak poin Attack Speed, Defense, dan damage-nya secara ekstrem.",
     "best_build": "\n\nSwift Boots:\n(Meningkatkan Attack Speed Popol yang otomatis diwariskan ganda untuk mempercepat gigitan serigala Kupa),\n\nBlade of Heptaseas:\n(Sangat mematikan karena memicu damage kejutan besar saat Kupa melakukan sergapan instan dari semak),\n\nHunter Strike:\n(Memberikan Physical Penetration dan tambahan lari instan setelah gigitan serigala pertamanya mengenai sasaran),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memastikan target empuk mati seketika dalam sekali siklus gigitan mode raksasa),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar demi meruntokkan pertahanan hero tanky lawan di late game),\n\nWind of Nature:\n(Item penyelamat wajib agar Popol kebal dari semua Physical Damage selama 2 detik saat diincar assassin musuh)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/We_Are_Friends.png/revision/latest?cb=20210809083507",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Bite_%27em%2C_Kupa%21.png/revision/latest?cb=20210809083631",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Kupa%2C_Help%21.png/revision/latest?cb=20210809083707",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/We_Are_Angry%21.png/revision/latest?cb=20210905105738"
   },
   {
     "her": "Rafaela",
     "roll": "Support | Healer, Poke",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20241021140932",
     "stat_durability": "35",
     "stat_offense": "45",
     "stat_control": "70",
@@ -1690,15 +1690,15 @@
     "skill_title": "Deity Penalty (Pasif) [Combo Malakut: Skill 1 (Spam Slow & Buka Semak) -> Skill 2 (Heal & Percepat Gerak Tim) -> Ultimate (Sinar Suci Stun Garis Lurus)]",
     "skill_desc": "🔴 PASIF - DEITY PENALTY:\nSiapa Rafaela tereliminasi, roh sucinya akan mengunci hero pembunuhnya lalu menembakkan panah cahaya hukuman suci yang memberikan True Damage masif setara % HP target (tidak bisa dihindari).\n\n🔵 SKILL 1 - LIGHT OF RETRIBUTION:\nRafaela menjatuhkan hukuman cahaya suci pada 3 musuh terdekat, memberikan Magic Damage, membuka vision semak, serta menyebabkan efek slow. Hit berturut-turut meningkatkan damage skill ini.\n\n🟡 SKILL 2 - HOLY HEAL:\nRafaela memancarkan cahaya penyembuh, memulihkan HP dirinya dan seluruh rekan tim terdekat, serta memberikan lonjakan bonus Movement Speed singkat bagi mereka untuk mengejar atau kabur.\n\n💜 ULTIMATE (SKILL 3) - HOLY BAPTISM:\nRafaela melepaskan kekuatan suci dalam satu garis lurus panjang ke depan, memberikan Magic Damage berat kepada musuh yang dilewatinya dan menyebabkan efek Stun mutlak selama 1.5 detik.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi CC agar lancar bergerak sambil memberikan tambahan pemulihan HP massal),\n\nFlask of the Oasis:\n(Item wajib utama karena memicu pasif pelindung tameng shield besar saat ia melakukan heal kawan yang sekarat),\n\nFleeting Time:\n(Memotong durasi cooldown dari sinar suci Holy Baptism agar tim selalu siap melakukan inisiasi perang),\n\nEnchanted Talisman:\n(Memberikan kapasitas Cooldown Reduction maksimal serta suplai Mana yang melimpah sepanjang permainan),\n\nDominance Ice:\n(Menurunkan Attack Speed musuh serta mematikan fungsi regen/shield lawan yang coba mendekati lini belakang tim),\n\nAthena's Shield:\n(Menjaga Rafaela dari ancaman hero assassin atau mage bertipe burst agar ia bisa terus menyembuhkan timnya)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Divine_Resurrection.png/revision/latest?cb=20250917074635",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Light_of_Retribution.png/revision/latest?cb=20240118091251",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Holy_Healing.png/revision/latest?cb=20200917011935",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Holy_Baptism.png/revision/latest?cb=20200917011934"
   },
   {
     "her": "Roger",
     "roll": "Fighter, Marksman | Burst, Speed",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20241021141547",
     "stat_durability": "65",
     "stat_offense": "85",
     "stat_control": "45",
@@ -1706,15 +1706,15 @@
     "skill_title": "Full Moon Curse (Pasif) [Combo: Mode MM -> Skill 1 (Tembak Jaring) -> Skill 2 (Lari) -> Ultimate (Berubah Jadi Serigala Terkam) -> Skill 1 (Cakar Kilat Eksekusi) -> Skill 2 (Garuk Cepat)]",
     "skill_desc": "🔴 PASIF - FULL MOON CURSE:\nMode Manusia: Basic Attack menyebabkan efek slow. Mode Serigala: Basic Attack memberikan Physical Damage tambahan yang berskala meningkat drastis berdasarkan persentase HP musuh yang hilang.\n\n🔵 SKILL 1 - LYCAN THROPE:\nMode Manusia: Tembak jaring memperlambat musuh. Mode Serigala: Roger melompat mencakar target hingga 3 kali, memberikan Physical Damage masif dan menjadikannya tidak bisa ditarget (Invulnerable).\n\n🟡 SKILL 2 - BLOODTHIRSTY HOWL:\nMode Manusia: Meningkatkan Movement Speed-nya secara drastis. Mode Serigala: Roger melolong, meningkatkan Attack Speed-nya secara ekstrem dan mendeteksi posisi hero musuh yang sekarat di map.\n\n💜 ULTIMATE (SKILL 3) - WOLF TRANSFORMATION:\nRoger berganti wujud secara instan antar wujud manusia (Marksman jarak jauh) dan serigala (Fighter jarak dekat) sambil melakukan dash taktis peningkat poin physical defense tubuhnya.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi CC agar mobilitas terkam garuk wujud serigala Roger tidak mudah dipatahkan lawan),\n\nWar Axe:\n(Memberikan tambahan Physical Attack, Cooldown Reduction, dan Spell Vamp berkelanjutan yang bersinergi dengan pasifnya),\n\nBrute Force Breastplate:\n(Menambah defense, movement speed, dan ketahanan CC berkala setiap kali Roger berganti wujud skill),\n\nHunter Strike:\n(Memberikan Physical Penetration dan kecepatan lari tambahan setelah mencakar musuh menggunakan skill 1 serigalanya),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk melipatgandakan damage cakarannya saat HP musuh di bawah 50%),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar untuk merontokkan pertahanan tank pelindung lawan di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Full_Moon_Curse.png/revision/latest?cb=20210905105058",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Open_Fire.png/revision/latest?cb=20210905105026",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hunter%27s_Steps.png/revision/latest?cb=20210905104945",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Wolf_Transformation.png/revision/latest?cb=20210905104842"
   },
   {
     "her": "Ruby",
     "roll": "Fighter, Tank | Crowd Control, Regen",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20250802152205",
     "stat_durability": "80",
     "stat_offense": "65",
     "stat_control": "85",
@@ -1722,15 +1722,15 @@
     "skill_title": "Let's Dance! (Pasif) [Combo: Skill 1 -> Dash Pasif -> Skill 2 (Putaran Sabit) -> Dash Pasif -> Ultimate + Flicker (Tarik Massal)]",
     "skill_desc": "🔴 PASIF - LET'S DANCE!:\nRuby memiliki Physical & Magic Lifesteal bawaan yang tinggi dari skill-nya. Setiap kali menggunakan skill, Ruby dapat melakukan dash pendek ke arah joystick untuk meningkatkan defense dirinya selama beberapa detik.\n\n🔵 SKILL 1 - BE GOOD!:\nRuby menebas sabitnya ke depan dengan cepat, memberikan Physical Damage dan meluncurkan gelombang kejut yang memberikan damage tambahan serta efek slow kepada musuh.\n\n🟡 SKILL 2 - DON'T RUN, WOLF!:\nRuby memutarkan sabit raksasanya di tempat sebanyak dua kali, memberikan Physical Damage, menyebabkan efek Stun selama 0.5 detik, dan menarik musuh secara perlahan ke arah dirinya.\n\n💜 ULTIMATE (SKILL 3) - I'M OFFENDED!:\nRuby melakukan tebasan sabit area berbentuk kipas yang luas ke arah depan, memberikan Physical Damage, menyebabkan efek Stun, dan menarik paksa seluruh musuh yang terkena ke hadapannya.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi Crowd Control musuh agar siklus loncatan pasif Ruby tidak mudah macet saat berduel),\n\nWar Axe:\n(Memberikan tambahan Physical Attack, Cooldown Reduction, dan Spell Vamp berkelanjutan yang bersinergi penuh dengan pasifnya),\n\nDominance Ice:\n(Menurunkan Attack Speed musuh serta mematikan efek HP Regen/Shield lawan demi mempermudah adu jotos jarak dekat),\n\nOracle:\n(Sangat wajib karena memperkuat penyerapan regenerasi HP / Spell Vamp dari tebasan sabitnya secara signifikan),\n\nAntique Cuirass:\n(Mengurangi Physical Attack lawan saat mereka memukul Ruby, melindunginya selama menahan lini depan),\n\nImmortality:\n(Menjamin keselamatan Ruby di late game agar tetap bisa melakukan counter-set tarik massal pasca hidup kembali)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Let%27s_dance%21.png/revision/latest?cb=20210816063243",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Be_good%21.png/revision/latest?cb=20210816063353",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Don%27t_run%2C_Wolf_King%21.png/revision/latest?cb=20210816063441",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/I%27m_offended%21.png/revision/latest?cb=20210816063549"
   },
   {
     "her": "Saber",
     "roll": "Assassin | Charge, Burst",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20250406000702",
     "stat_durability": "30",
     "stat_offense": "95",
     "stat_control": "75",
@@ -1738,15 +1738,15 @@
     "skill_title": "Enemy's Flaw (Pasif) [Combo Eksekusi: Skill 1 (Terbangkan Pedang Melingkar) -> Skill 2 (Dash Dekati Target) -> Ultimate (Hantaman Udara Tiga Kali)]",
     "skill_desc": "🔴 PASIF - ENEMY'S FLAW:\nSetiap kali skill atau basic attack Saber mengenai musuh, ia mengurangi Physical Defense (Armor) mereka sebesar 3 hingga 8 poin. Efek ini dapat di-stack hingga 5 kali dan bertahan selama 5 detik.\n\n🔵 SKILL 1 - ORBITING SWORDS:\nSaber menerbangkan 5 pedang kecil yang berputar mengelilingi dirinya, memberikan Physical Damage. Setiap kali Saber menyerang musuh menggunakan Basic Attack, pedang tersebut akan meluncur menusuk target.\n\n🟡 SKILL 2 - CHARGE:\nSaber melakukan dash lurus ke depan, memberikan Physical Damage kepada musuh yang dilewatinya dan memperkuat Basic Attack berikutnya untuk memberikan damage ekstra serta efek slow.\n\n💜 ULTIMATE (SKILL 3) - TRIPLE SWEEP:\nSaber mengunci hero target lalu menerjangnya untuk menghempaskan mereka ke udara (Airborne) selama 1.2 s, lalu meluncurkan 3 tebasan kilat masif yang merontokkan seluruh HP target.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi CC agar Saber tidak tertahan di tempat sebelum sempat menculik core musuh),\n\nBlade of Heptaseas:\n(Sangat mematikan karena memicu damage kejutan besar saat Saber melakukan eksekusi instan dari dalam semak-semak),\n\nHunter Strike:\n(Memberikan Physical Penetration dan kecepatan lari tambahan setelah menyabetkan rentetan kombo tebasannya),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memastikan musuh empuk mati seketika dalam sekali siklus Triple Sweep-nya),\n\nMalefic Roar:\n(Membuat pengurangan armor dari pasifnya semakin mutlak, sangat ampuh untuk menembus pertahanan tank sekeras apa pun),\n\nImmortality:\n(Asuransi nyawa kedua yang sangat berharga bagi assassin masuk barisan belakang agar bisa kabur setelah eliminasi)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Enemy%27s_Bane.png/revision/latest?cb=20200718155708",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Orbiting_Swords.png/revision/latest?cb=20201214101424",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Charge.png/revision/latest?cb=20200718155500",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Triple_Sweep.png/revision/latest?cb=20200718160427"
   },
   {
     "her": "Selena",
     "roll": "Assassin, Mage | Burst, Control",
-    "URL": "https://nocookie.net",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20241021142149",
     "stat_durability": "30",
     "stat_offense": "90",
     "stat_control": "85",
@@ -1754,10 +1754,10 @@
     "skill_title": "Symbiosis (Pasif) [Combo Lele: Mode Elven -> Skill 1 (Perangkap) -> Skill 2 (Lele Stun Jauh) -> Ultimate (Ubah Mode Iblis) -> Skill 2 (Dash Terkam 2x) -> Skill 1 (Cakar Abyssal)]",
     "skill_desc": "🔴 PASIF - SYMBIOSIS:\nMode Elven meninggalkan Abyssal Mark pada musuh (hingga 2 stack). Saat Selena berganti ke wujud Abyssal (Iblis), seluruh serangannya akan mengonsumsi mark tersebut untuk memicu bonus Magic Damage masif.\n\n🔵 SKILL 1 - ABYSSAL TRAP:\nMode Elven: Menaruh perangkap gaib pembuka vision map semak. Mode Abyssal: Memperkuat Basic Attack cakar berikutnya untuk memberikan bonus damage sihir dan memberikan perisai Shield pelindung.\n\n🟡 SKILL 2 - ABYSSAL ARROW:\nMode Elven: Menembak lele energi sihir jarak jauh yang memicu efek Stun hingga 3 s berdasarkan jarak. Mode Abyssal: Melakukan dash menusuk; cooldown langsung di-reset jika mengenai target bermark.\n\n💜 ULTIMATE (SKILL 3) - PRIMAL DARKNESS:\nSelena berganti wujud secara instan antar wujud Elven (jarak jauh/Mage) dan Abyssal (jarak dekat/Assassin) sambil meningkatkan kecepatan gerak tubuhnya secara berkala.",
     "best_build": "\n\nArcane Boots:\n(Meningkatkan penetrasi sihir awal agar cakaran wujud iblisnya langsung terasa sakit di awal permainan),\n\nLightning Truncheon:\n(Memberikan tambahan bonus ledakan kilat elektrik ekstra yang bersinergi melipatgandakan damage kombo cakaran Abyssal),\n\nStarlium Scythe:\n(Item inti wajib karena Selena sangat mengandalkan hantaman Basic Attack yang diperkuat setelah berganti wujud iblis),\n\nHoly Crystal:\n(Menimbun Magic Power dalam jumlah sangat masif agar ledakan dari cakar Soul Eater-nya memicu kematian instan target),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara datar karena terekspos benturan perangkap dan lele stun milik Selena),\n\nDivine Glaive:\n(Mengatasi item pertahanan magis tebal milik tank musuh agar daya tembus cakaran Selena tetap maksimal di late game)",
-    "skill_pasif_URL": "https://nocookie.net",
-    "skill1_URL": "https://nocookie.net",
-    "skill2_URL": "https://nocookie.net",
-    "skill_ult_URL": "https://nocookie.net"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Symbiosis.png/revision/latest?cb=20211108070339",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Abyssal_Trap.png/revision/latest?cb=20211108070434",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Abyssal_Arrow.png/revision/latest?cb=20211108070444",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Primal_Darkness.png/revision/latest?cb=20211108070514"
   },
   {
     "her": "Silvanna",
