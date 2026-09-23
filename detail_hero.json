@@ -194,7 +194,7 @@
   {
     "her": "Badang",
     "roll": "Fighter | Charge, Burst",
-    "URL": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/Screenshot_20260919-224633.jpg",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20260919020718",
     "stat_durability": "65",
     "stat_offense": "80",
     "stat_control": "75",
@@ -202,10 +202,10 @@
     "skill_title": "Chivalry Fist (Pasif) [Combo: Skill 2 -> Skill 1 -> Ultimate -> Basic Attack]",
     "skill_desc": "🔴 PASIF - CHIVALRY FIST:\nBadang memperoleh kekuatan dari tinju sucinya yang mampu menghancurkan pertahanan lawan. Setiap kali Basic Attack atau skill Badang mengenai musuh, target akan terdorong ke belakang dalam jarak tertentu. Jika musuh terdorong hingga mengenai tembok atau penghalang buatan Badang, mereka akan terkena efek Stun singkat dan menerima Physical Damage tambahan. Efek ini menjadikan Badang sangat berbahaya dalam pertarungan jarak dekat karena mampu mengunci posisi lawan dan menciptakan peluang besar untuk melakukan kombo mematikan.\n\n🔵 SKILL 1 - FIST WIND:\nBadang melepaskan gelombang pukulan ke arah depan yang menghasilkan Physical Damage kepada seluruh musuh di jalurnya. Setelah mengenai target atau mencapai jarak maksimum, gelombang tersebut akan meledak dan memberikan damage tambahan di area sekitar. Skill ini sangat efektif untuk membersihkan minion, melakukan poke dari jarak aman, maupun mempersiapkan posisi lawan sebelum dikombinasikan dengan Skill 2 dan Ultimate.\n\n🟡 SKILL 2 - FIST BREAK:\nBadang melakukan dash ke arah yang ditentukan dan menghantam musuh pertama yang ditemuinya. Setelah dash selesai, Badang akan menciptakan dinding energi di belakang target yang bertahan selama beberapa detik. Dinding tersebut dapat menghalangi pergerakan musuh dan menjadi kombinasi sempurna dengan pasif Chivalry Fist karena memungkinkan Badang memberikan efek Stun berulang saat mendorong lawan ke arah tembok energi tersebut.\n\n💜 ULTIMATE (SKILL 3) - FIST CRACK:\nBadang melepaskan rentetan pukulan super cepat ke arah depan dan menghasilkan Physical Damage berkali-kali dalam waktu singkat. Selama Ultimate berlangsung, musuh yang terjebak di depan Badang akan terus menerima serangan bertubi-tubi yang sangat mematikan. Jika target berada di dekat dinding hasil Skill 2 atau tembok map, peluang mereka untuk melarikan diri menjadi sangat kecil. Ultimate ini merupakan sumber burst damage utama Badang dan sering digunakan untuk menghabisi Marksman, Mage, maupun Fighter lawan hanya dalam beberapa detik.",
     "best_build": "\n\nWarrior Boots:\n(Menambah Physical Defense dan meningkatkan daya tahan saat bertarung di garis depan),\n\nGolden Staff:\n(Meningkatkan frekuensi serangan sehingga efek pasif Badang lebih sering aktif),\n\nDemon Hunter Sword:\n(Memberikan Physical Damage tambahan berdasarkan HP target dan sangat efektif melawan Tank),\n\nCorrosion Scythe:\n(Menambah Attack Speed tinggi serta memberikan efek Slow kepada musuh yang terkena Basic Attack),\n\nMalefic Roar:\n(Menembus Physical Defense musuh dalam jumlah besar terutama pada fase late game),\n\nBlade of Despair:\n(Memberikan Physical Attack tertinggi untuk memaksimalkan burst damage dari Ultimate Badang)",
-    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Chivalry_Fist.png/revision/latest?cb=20200829035801",
-    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Fist_Wind.png/revision/latest?cb=20200829035816",
-    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Fist_Break.png/revision/latest?cb=20200829035733",
-    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Fist_Crack.png/revision/latest?cb=20200829035747"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Chivalry_Fist.png/revision/latest?cb=20260919020957",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Fist_Wind.png/revision/latest?cb=20260919021046",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Fist_Break.png/revision/latest?cb=20260919021121",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Fist_Crack.png/revision/latest?cb=20260919021157"
   },
   {
     "her": "Balmond",
@@ -322,7 +322,7 @@
   {
     "her": "Brody",
     "roll": "Marksman | Burst, Reap",
-    "URL": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/Screenshot_20260919-232051.jpg",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20260916131931",
     "stat_durability": "45",
     "stat_offense": "90",
     "stat_control": "40",
@@ -1314,7 +1314,7 @@
   {
     "her": "Luo Yi",
     "roll": "Mage | Support, Crowd Control",
-    "URL": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/IMG_20260919_234834_442.jpg",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20260918005619",
     "stat_durability": "40",
     "stat_offense": "80",
     "stat_control": "85",
@@ -1322,10 +1322,10 @@
     "skill_title": "Duality (Pasif) [Combo Tarik Massal: Skill 1 (Tembak Kuning) -> Skill 2 (Taruh Area Ungu) -> Skill 1 (Tembak Ungu ke Musuh Lain) -> Musuh Berbenturan]",
     "skill_desc": "🔴 PASIF - DUALITY:\nSkill Luo Yi meninggalkan mark Yin (Kuning) atau Yang (Ungu) pada target. Jika dua musuh dengan mark yang berbeda saling mendekat, atau satu target terkena dua mark berbeda, mereka akan saling tertarik, terkena stun, dan menerima damage ledakan sihir besar.\n\n🔵 SKILL 1 - DISPERSION:\nLuo Yi menembakkan gelombang energi Yin atau Yang ke arah depan dalam area kipas kecil yang menyebar setelah mengenai musuh. Warna energi berganti setiap kali skill digunakan.\n\n🟡 SKILL 2 - ROTATION:\nLuo Yi menciptakan lingkaran area pusaran energi Yin atau Yang di lokasi target, memberikan Magic Damage berkala dan memicu reaksi pasif Duality secara konstan pada musuh di dalamnya.\n\n💜 ULTIMATE (SKILL 3) - DIVERSION:\nLuo Yi membuka portal teleportasi spiritual raksasa di bawah kakinya. Setelah jeda singkat, ia bersama seluruh rekan tim yang berdiri di dalam lingkaran portal akan berpindah posisi instan ke area tujuan manapun di map.",
     "best_build": "\n\nMagic Shoes:\n(Meningkatkan Cooldown Reduction agar Luo Yi bisa terus melakukan pergantian warna tembakan dispersion-nya),\n\nIce Queen Wand:\n(Memberikan efek slow tambahan yang membuat musuh terjebak lebih lama di dalam pusaran area mark putaran skill 2),\n\nGlowing Wand:\n(Membakar HP musuh secara berkala lewat rentetan ledakan benturan pasifnya dan memberikan efek anti-heal),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara drastis karena hit benturan beruntun dari pasif Duality Luo Yi),\n\nHoly Crystal:\n(Menambah Magic Power dalam jumlah sangat besar agar kalkulasi damage dari ledakan sihir benturannya semakin mematikan),\n\nDivine Glaive:\n(Mengatasi hero tank musuh yang membeli Magic Defense tinggi di fase late game)",
-    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Duality.png/revision/latest?cb=20210816212033",
-    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Dispersion.png/revision/latest?cb=20220201082322",
-    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Rotation.png/revision/latest?cb=20220201090009",
-    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Diversion.png/revision/latest?cb=20210816212341"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Duality.png/revision/latest?cb=20260918024315",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Dispersion.png/revision/latest?cb=20260918024347",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Rotation_%28Yin%29.png/revision/latest?cb=20260918024539",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Diversion.png/revision/latest?cb=20260918024603"
   },
   {
     "her": "Lesley",
@@ -1394,7 +1394,7 @@
   {
     "her": "Masha",
     "roll": "Fighter, Tank | Burst, Control",
-    "URL": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/IMG_20260919_233637_086.jpg",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20260918142339",
     "stat_durability": "80",
     "stat_offense": "85",
     "stat_control": "60",
@@ -1402,10 +1402,10 @@
     "skill_title": "Ancient Strength (Pasif) [Combo: Skill 1 (Nyalakan Mode Cakar) -> Ultimate (Melesat Hantam) -> Spam Basic Attack Kecepatan Tinggi -> Skill 2 (Disarm Peluru MM)]",
     "skill_desc": "🔴 PASIF - ANCIENT STRENGTH:\nMasha memiliki 3 bar HP dan tidak bisa dieliminasi dalam sekali hit jika masih punya bar HP tersisa. Setiap kehilangan 1 bar HP, ia mendapatkan kekebalan lifesteal tambahan dan tambahan Attack Speed konstan yang masif.\n\n🔵 SKILL 1 - WILD POWER:\nMasha meningkatkan kekuatan cakarnya, memberikan Physical Damage tambahan berdasarkan persentase Max HP target pada setiap Basic Attack, namun ia harus mengorbankan sebagian kecil HP-nya sendiri.\n\n🟡 SKILL 2 - HOWL SHOCK:\nMasha melepaskan raungan singa ke depan, memberikan Physical Damage dan menyebabkan efek slow berat, serta melucuti senjata target (Disarm) sehingga mereka tidak bisa menggunakan Basic Attack selama 2 detik.\n\n💜 ULTIMATE (SKILL 3) - THUNDERCLAP:\nMasha mengorbankan persentase HP saat ini untuk melesat menghantam hero target, memberikan Physical Damage masif berdasarkan total HP Masha, menyebabkan efek slow, and mengurangi kekebalan damage musuh.",
     "best_build": "\n\nWarrior Boots:\n(Menambah pertahanan fisik awal agar tangguh saat melakukan adu jotos perebutan minion awal di Exp Lane atau Jungle),\n\nHunter Strike:\n(Memberikan Physical Penetration dan kecepatan lari tambahan setelah menyabetkan rentetan cakaran mautnya),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memaksimalkan burst hantaman kritis dari skill Thunderclap),\n\nBlade of Heptaseas:\n(Sangat mematikan karena memicu damage kejutan besar saat Masha melakukan sergapan instan dari semak),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar demi melumat hero tebal pelindung lawan di lini depan),\n\nRose Gold Meteor:\n(Asuransi pelindung shield magis darurat agar ia tidak mudah dieliminasi saat sisa bar HP terakhirnya sekarat)",
-    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Ancient_Strength.png/revision/latest?cb=20211206061603",
-    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Wild_Power.png/revision/latest?cb=20211206061636",
-    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Howl_Shock.png/revision/latest?cb=20211206061702",
-    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Thunderclap.png/revision/latest?cb=20211206061731"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Primal_Pact.png/revision/latest?cb=20260918142334",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Feral_Swipe.png/revision/latest?cb=20260918142335",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Claw_Strike.png/revision/latest?cb=20260918142333",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Savage_Maul.png/revision/latest?cb=20260918142336"
   },
   {
     "her": "Mathilda",
