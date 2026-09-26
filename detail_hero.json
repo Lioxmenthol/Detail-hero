@@ -1042,7 +1042,7 @@
   {
     "her": "Kadita",
     "roll": "Mage / Assassin | Burst, Charge",
-    "URL": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/IMG_20260919_234205_528.jpg",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20260925053006",
     "stat_durability": "40",
     "stat_offense": "90",
     "stat_control": "70",
@@ -1050,10 +1050,10 @@
     "skill_title": "Thalassophobia (Pasif) [Combo Instan: Skill 1 (Maju Seluncur) -> Skill 2 (Angkat Semburan Air) -> Ultimate (Semburan Ombak Massal)]",
     "skill_desc": "🔴 PASIF - THALASSOPHOBIA:\nSetelah menerima damage dari musuh, Kadita memicu pemulihan berkala yang mengembalikan 65% dari HP yang hilang selama 4 detik terakhir. Efek penyembuhan ini memiliki cooldown singkat.\n\n🔵 SKILL 1 - OCEAN ODDITY:\nKadita memanggil ombak laut untuk membawanya berselancar ke depan, memberikan Magic Damage, efek slow, dan kebal terhadap semua efek Crowd Control (Immune) serta mengurangi damage yang ia terima.\n\n🟡 SKILL 2 - BREATH OF THE OCEAN:\nKadita memanggil semburan air laut di area target. Setelah jeda singkat, air menyembur ke atas langit, memberikan Magic Damage dan menyebabkan efek Knock-up (Airborne) kepada musuh selama 1.5 detik.\n\n💜 ULTIMATE (SKILL 3) - ROUGH WAVES:\nKadita melompat dan menciptakan tsunami ombak besar ke segala arah, memberikan Magic Damage masif dan menjadikannya tidak bisa ditarget. Saat ombak kembali ke tubuh Kadita, musuh terkena damage tambahan.",
     "best_build": "\n\nArcane Boots:\n(Meningkatkan penetrasi magis awal agar terjangan tsunami ombak ombaknya langsung menewaskan backline musuh),\n\nLightning Truncheon:\n(Memberikan tambahan Magic Power dan bonus ledakan petir kilat ekstra untuk melipatgandakan burst kombonya),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara konstan saat tersapu oleh ombak berselancar dari skill 1 Kadita),\n\nHoly Crystal:\n(Menimbun Magic Power dalam jumlah masif agar kalkulasi ledakan Rough Waves menjadi instan dan mematikan),\n\nDivine Glaive:\n(Mengatasi item pertahanan magis pelindung yang mulai dibeli oleh marksman atau mage musuh),\n\nBlood Wings:\n(Memberikan tambahan Magic Power ekstrem di late game serta Shield darurat dan Movement Speed tambahan)",
-    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Thalassophobia.png/revision/latest?cb=20210809092741",
-    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ocean_Ode.png/revision/latest?cb=20210809092828",
-    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Breath_of_the_Ocean.png/revision/latest?cb=20210809092915",
-    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rough_Waves.png/revision/latest?cb=20210809093025"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Thalassophobia.png/revision/latest?cb=20260925053046",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ocean_Ode.png/revision/latest?cb=20260925053112",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Breath_of_the_Ocean.png/revision/latest?cb=20260925053158",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rough_Waves.png/revision/latest?cb=20260925053246"
   },
   {
     "her": "Kagura",
@@ -1618,7 +1618,7 @@
   {
     "her": "Paquito",
     "roll": "Fighter | Chase, Burst",
-    "URL": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/IMG_20260919_234130_784.jpg",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20260925052042",
     "stat_durability": "65",
     "stat_offense": "90",
     "stat_control": "65",
@@ -1626,10 +1626,10 @@
     "skill_title": "Champ Stance (Pasif) [Combo Instan Champ: Skill 2 -> Skill 2 (Enhanced/Pukulan Dorong) -> Skill 1 -> Ultimate (Uppercut Angkat Musuh)]",
     "skill_desc": "🔴 PASIF - CHAMP STANCE:\nPaquito mengumpulkan Champ Stance stack saat skill-nya mengenai musuh. Pada stack ke-3, ia memasuki mode Champ yang memperkuat skill berikutnya tanpa jeda cooldown (no cooldown).\n\n🔵 SKILL 1 - HEAVY LEFT PUNCH:\nPaquito melayangkan pukulan kiri yang berat ke depan, memberikan Physical Damage. Jika mengenai hero musuh, ia mendapatkan Shield pelindung penahan damage (Shield bertambah besar di mode Champ).\n\n🟡 SKILL 2 - JAB:\nPaquito melakukan dash kilat ke depan and melepaskan pukulan Jab lurus yang sangat keras, memberikan Physical Damage area berbentuk persegi panjang pendek di depannya.\n\n💜 ULTIMATE (SKILL 3) - KNOCKOUT STRIKE:\nPaquito melayangkan pukulan siku pendorong diikuti hantaman jeratan area. Versi Champ mengubah pukulan akhir menjadi Uppercut mematikan yang menghempaskan musuh ke udara (Airborne) selama 1 detik.",
     "best_build": "\n\nWarrior Boots:\n(Menambah pertahanan fisik awal agar tangguh saat melakukan adu jotos satu lawan satu di Exp Lane atau Jungle),\n\nHunter Strike:\n(Memberikan Physical Penetration dan kecepatan lari tambahan setelah mendaratkan kombo Jab kilatnya),\n\nBlade of Heptaseas:\n(Memicu damage kejutan yang sangat besar pada pukulan pertama setelah Paquito keluar dari semak pertahanan),\n\nBlade of Despair:\n(Lompatan Physical Attack tertinggi untuk memastikan musuh empuk mati seketika dalam satu siklus kombo tinjunya),\n\nMalefic Roar:\n(Menembus Armor fisik musuh persentase besar demi melumat hero tank atau fighter pelindung lawan),\n\nImmortality:\n(Sangat penting untuk menjaga petarung garda depan beresiko tinggi agar dapat menggunakan kombo kabur pasca bangkit)",
-    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Champ_Stance.png/revision/latest?cb=20210315233746",
-    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Heavy_Left_Punch.png/revision/latest?cb=20210315233622",
-    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Jab.png/revision/latest?cb=20210315233645",
-    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Knockout_Strike.png/revision/latest?cb=20210315233719"
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Champ_Stance.png/revision/latest?cb=20260925052301",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Heavy_Left_Punch_-_Champ_Stance.png/revision/latest?cb=20260925092418",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Jab_-_Champ_Stance.png/revision/latest?cb=20260925092530",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Knockout_Strike_-_Champ_Stance.png/revision/latest?cb=20260925092642"
   },
   {
     "her": "Parsha",
